@@ -1,1 +1,6 @@
 puppy
+ocelot
+sloth
+sloth
+bat
+bear
